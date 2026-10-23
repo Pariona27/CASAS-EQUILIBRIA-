@@ -1,0 +1,6 @@
+{
+  "name": "Club Equilibria 360 - Casas de IA",
+  "description": "Descubre tu Casa en el Club Equilibria 360: Inteligencia Artificial aplicada al Medio Ambiente. Test interactivo, directorio de casas y dinámica de competencia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
